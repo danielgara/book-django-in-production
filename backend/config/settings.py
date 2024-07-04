@@ -45,6 +45,7 @@ THIRD_PARTY_APPS = [
 
 CUSTOM_APPS = [
     'demo_app',
+    'demo_app_version',
 ]
 
 INSTALLED_APPS = DJANGO_APPS + CUSTOM_APPS + THIRD_PARTY_APPS
